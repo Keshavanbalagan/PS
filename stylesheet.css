@@ -106,8 +106,9 @@ margin-top:10px;
 }
 .copyrightpara
 {
-  margin-bottom: 0;
+  margin-bottom:20px auto 0;
   color: #ffff;
+  font-size:0.7em;
 }
 .A {
 background-image:  -webkit-linear-gradient(top, #11cdd4, #11999e);
